@@ -5,7 +5,7 @@ import json, re, os
 from datetime import datetime, timezone
 from collections import defaultdict, Counter
 
-OFFICIAL = {"MetaVR_Official","PICOXR","htcvive","BigscreenVR"}
+OFFICIAL = {"MetaVR_Official","PICOXR","htcvive","BigscreenVR","XREAL_Global","RokidGlobal","getVITURE","rayneo_global","pimaxofficial","Play_for_dream","PICOXR_Dev"}
 MEDIA_KOL = {"ARealityEvent","nathie","Dilmerv","kentbye"}
 ALL = OFFICIAL | MEDIA_KOL
 
@@ -106,7 +106,7 @@ def build(posts_path='raw/posts.json'):
     os.makedirs('feeds', exist_ok=True)
     off = [i for i in merged if i['handle'] in OFFICIAL]
     kol = [i for i in merged if i['handle'] in MEDIA_KOL]
-    off_lbd, off_n = write_rss('X · XR 官方账号','MetaVR_Official / PICOXR / htcvive / BigscreenVR 的帖子', off, 'feeds/x-official.xml')
+    off_lbd, off_n = write_rss('X · XR 官方账号','MetaVR_Official / PICOXR / htcvive / BigscreenVR / XREAL_Global / RokidGlobal / getVITURE / rayneo_global / pimaxofficial / Play_for_dream / PICOXR_Dev 的帖子', off, 'feeds/x-official.xml')
     kol_lbd, kol_n = write_rss('X · XR 媒体和 KOL','ARealityEvent / nathie / Dilmerv / kentbye 的帖子', kol, 'feeds/x-media-kol.xml')
     return {'lastBuildDate': off_lbd, 'official': off_n, 'media_kol': kol_n,
             'per_account': {h: {'seen': stats_seen.get(h,0), 'kept': stats_kept.get(h,0)} for h in sorted(ALL)}}

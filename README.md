@@ -5,7 +5,7 @@ XRHOT 用的 X 订阅（第二版）。只收名单账号自己发的帖子，�
 ## 订阅地址
 
 - 官方：https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-official.xml  
-  账号：MetaVR_Official / PICOXR / htcvive / BigscreenVR
+  账号：MetaVR_Official / PICOXR / htcvive / BigscreenVR / XREAL_Global / RokidGlobal / getVITURE / rayneo_global / pimaxofficial / Play_for_dream / PICOXR_Dev
 - 媒体和 KOL：https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-media-kol.xml  
   账号：ARealityEvent / nathie / Dilmerv / kentbye
 
@@ -20,7 +20,7 @@ UploadVR、RtoVR 不收（站里已有网站 RSS）。不再提供主题检索�
 
 ## 最近一次构建
 
-- lastBuildDate：Fri, 09 Oct 2026 11:00:20 GMT
-- x-official.xml：8 条
-- x-media-kol.xml：35 条
-- 窗口：主窗口 since 2026-10-02；BigscreenVR 因近 7 天过少，扩到 since 2026-09-25；kentbye 两窗口皆 0。
+- lastBuildDate：Fri, 09 Oct 2026 14:21:45 GMT
+- x-official.xml：47 条（新增官方账号条目 39；原有 8 条正文未改）
+- x-media-kol.xml：未改动
+- 新账号采集窗口：since 2026-09-25

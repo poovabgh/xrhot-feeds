@@ -1,0 +1,39 @@
+{
+  "official_url": "https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-official.xml",
+  "lastBuildDate": "Fri, 09 Oct 2026 14:21:45 GMT",
+  "total_items": 47,
+  "added_new": 39,
+  "existing_preserved": 8,
+  "per_new_account": {
+    "PICOXR_Dev": {
+      "seen": 1,
+      "kept": 1
+    },
+    "Play_for_dream": {
+      "seen": 3,
+      "kept": 3
+    },
+    "RokidGlobal": {
+      "seen": 13,
+      "kept": 12
+    },
+    "XREAL_Global": {
+      "seen": 7,
+      "kept": 7
+    },
+    "getVITURE": {
+      "seen": 11,
+      "kept": 4
+    },
+    "pimaxofficial": {
+      "seen": 9,
+      "kept": 7
+    },
+    "rayneo_global": {
+      "seen": 5,
+      "kept": 5
+    }
+  },
+  "media_kol_sha256": "22ca562972642dc2eaa74ecb8aca307956c47894ff763e2156faaa05cff19b8a",
+  "description": "MetaVR_Official / PICOXR / htcvive / BigscreenVR / XREAL_Global / RokidGlobal / getVITURE / rayneo_global / pimaxofficial / Play_for_dream / PICOXR_Dev 的帖子"
+}
