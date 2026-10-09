@@ -1,0 +1,27 @@
+{
+  "log": [
+    [
+      "https://t.co/l1rY74cNQw",
+      "https://youtu.be/UgTZg11T1KU?is=1I3XlXvuj_L6neDO",
+      "ok"
+    ],
+    [
+      "https://t.co/XTMIeq912K",
+      "https://technode.com/2026/10/09/xreal-opens-aura-preorders-at-1279-for-android-xr-glasses/",
+      "followed-shortener"
+    ],
+    [
+      "https://t.co/l3VvDeKyGp",
+      "https://www.uploadvr.com/synth-riders-adds-hand-tracking-support-on-quest-3/",
+      "ok"
+    ]
+  ],
+  "failures": [],
+  "counts": {
+    "x-metavr_official": 1,
+    "x-nathie": 6,
+    "x-dilmerv": 10,
+    "x-arealityevent": 2,
+    "x-keyword": 15
+  }
+}
