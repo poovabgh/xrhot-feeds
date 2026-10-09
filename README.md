@@ -1,41 +1,34 @@
 # xrhot-feeds
 
-Public RSS feeds for xrhot, generated from X posts (login-browser collection).
-Station should poll these feeds and **enable “short posts count as body”** so posts under 280 chars are treated as full body, not summary.
+Public RSS for xrhot: one aggregated X feed for XR (VR / MR / AR / AI glasses) posts collected via login browser.
 
-## Active feeds (public raw URLs)
+Station should poll this feed and **enable “short posts count as body”** so posts under 280 chars are treated as full body, not summary.
 
-| Feed | Handle / topic | Items | Public URL |
+## Primary feed (use this)
+
+| Feed | Description | Items | Public URL |
 |---|---|---:|---|
-| `x-metavr_official` | MetaVR_Official | 1 | https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-metavrofficial.xml |
-| `x-nathie` | nathie | 6 | https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-nathie.xml |
-| `x-dilmerv` | Dilmerv | 10 | https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-dilmerv.xml |
-| `x-arealityevent` | ARealityEvent | 2 | https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-arealityevent.xml |
-| `x-keyword` | keyword mix | 15 | https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-keyword.xml |
+| `xrhot-x` | X · XR 聚合（多账号 + 主题检索） | 34 | https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/xrhot-x.xml |
 
-## Skipped (already have site RSS)
+Channel: title `X · XR 聚合`, link `https://github.com/poovabgh/xrhot-feeds`.  
+Includes: MetaVR_Official, nathie, Dilmerv, ARealityEvent, and keyword extras.  
+**Skipped** (they already have site RSS): UploadVR, Road to VR (RtoVR).
 
-- UploadVR
-- Road to VR (RtoVR)
+## Deprecated: per-account feeds
 
-## Planned (0 posts in last 48h window — no feed file yet)
-
-- kentbye
-- PICOXR
-- htcvive
-- BigscreenVR
+Older split files under `feeds/x-*.xml` may still exist for reference. **Do not subscribe to them** — use only `feeds/xrhot-x.xml`.
 
 ## RSS field rules
 
 - `link`: `https://x.com/{handle}/status/{id}`
 - `guid`: tweet id only, `isPermaLink="false"`
 - `pubDate`: RFC822 with timezone (GMT)
+- `dc:creator`: author handle
 - `content:encoded`: verbatim post text; `t.co` expanded to final URL when possible
 - Newest first; keep up to 50 items
 - Do not rewrite post text after publish
 
 ## Source snapshot
 
-- Collection file: `xrhot-48h-collect.json` (46 posts, this batch uses 34 after skipping UploadVR/RtoVR)
-- Generated: 2026-10-09 10:18 UTC
-
+- Collection file: `xrhot-48h-collect.json`
+- Aggregate generated from previously published per-account bodies (verbatim merge)
