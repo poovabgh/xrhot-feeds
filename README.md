@@ -1,34 +1,26 @@
 # xrhot-feeds
 
-Public RSS for xrhot: one aggregated X feed for XR (VR / MR / AR / AI glasses) posts collected via login browser.
+XRHOT 用的 X 订阅（第二版）。只收名单账号自己发的帖子，做 XR 初筛后写入两路 RSS。
 
-Station should poll this feed and **enable “short posts count as body”** so posts under 280 chars are treated as full body, not summary.
+## 订阅地址
 
-## Primary feed (use this)
+- 官方：https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-official.xml  
+  账号：MetaVR_Official / PICOXR / htcvive / BigscreenVR
+- 媒体和 KOL：https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-media-kol.xml  
+  账号：ARealityEvent / nathie / Dilmerv / kentbye
 
-| Feed | Description | Items | Public URL |
-|---|---|---:|---|
-| `xrhot-x` | X · XR 聚合（多账号 + 主题检索） | 34 | https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/xrhot-x.xml |
+UploadVR、RtoVR 不收（站里已有网站 RSS）。不再提供主题检索订阅。
 
-Channel: title `X · XR 聚合`, link `https://github.com/poovabgh/xrhot-feeds`.  
-Includes: MetaVR_Official, nathie, Dilmerv, ARealityEvent, and keyword extras.  
-**Skipped** (they already have site RSS): UploadVR, Road to VR (RtoVR).
+## 规则摘要
 
-## Deprecated: per-account feeds
+- 只收 XR 相关（VR/MR/AR/AI 眼镜硬件、系统平台、应用内容、技术零部件、XR 业务/展会；AI 仅限眼镜/头显上的）。
+- 不收回复别人、纯转发、无文字的纯图/视频帖；自己的串帖合成一条；引用附「引用 @账号：」。
+- 正文放在 `content:encoded`，t.co 换成真实地址；已发出条目不改字。
+- 每路最多保留 100 条，新的在前。
 
-Older split files under `feeds/x-*.xml` may still exist for reference. **Do not subscribe to them** — use only `feeds/xrhot-x.xml`.
+## 最近一次构建
 
-## RSS field rules
-
-- `link`: `https://x.com/{handle}/status/{id}`
-- `guid`: tweet id only, `isPermaLink="false"`
-- `pubDate`: RFC822 with timezone (GMT)
-- `dc:creator`: author handle
-- `content:encoded`: verbatim post text; `t.co` expanded to final URL when possible
-- Newest first; keep up to 50 items
-- Do not rewrite post text after publish
-
-## Source snapshot
-
-- Collection file: `xrhot-48h-collect.json`
-- Aggregate generated from previously published per-account bodies (verbatim merge)
+- lastBuildDate：Fri, 09 Oct 2026 11:00:20 GMT
+- x-official.xml：8 条
+- x-media-kol.xml：35 条
+- 窗口：主窗口 since 2026-10-02；BigscreenVR 因近 7 天过少，扩到 since 2026-09-25；kentbye 两窗口皆 0。

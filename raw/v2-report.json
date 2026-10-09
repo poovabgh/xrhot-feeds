@@ -1,0 +1,45 @@
+{
+  "urls": {
+    "official": "https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-official.xml",
+    "media_kol": "https://raw.githubusercontent.com/poovabgh/xrhot-feeds/main/feeds/x-media-kol.xml"
+  },
+  "lastBuildDate": "Fri, 09 Oct 2026 11:00:20 GMT",
+  "counts": {
+    "x-official.xml": 8,
+    "x-media-kol.xml": 35
+  },
+  "per_account": {
+    "ARealityEvent": {
+      "seen": 3,
+      "kept": 3
+    },
+    "BigscreenVR": {
+      "seen": 3,
+      "kept": 2
+    },
+    "Dilmerv": {
+      "seen": 34,
+      "kept": 21
+    },
+    "MetaVR_Official": {
+      "seen": 2,
+      "kept": 2
+    },
+    "PICOXR": {
+      "seen": 3,
+      "kept": 3
+    },
+    "htcvive": {
+      "seen": 1,
+      "kept": 1
+    },
+    "kentbye": {
+      "seen": 0,
+      "kept": 0
+    },
+    "nathie": {
+      "seen": 16,
+      "kept": 11
+    }
+  }
+}

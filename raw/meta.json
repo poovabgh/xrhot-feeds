@@ -1,0 +1,23 @@
+{
+  "collected_at": "2026-10-09T10:57:54.447196+00:00",
+  "window_start_primary": "2026-10-02T00:00:00Z",
+  "window_start_extended": "2026-09-25T00:00:00Z",
+  "accounts": {
+    "official": [
+      "MetaVR_Official",
+      "PICOXR",
+      "htcvive",
+      "BigscreenVR"
+    ],
+    "media_kol": [
+      "ARealityEvent",
+      "nathie",
+      "Dilmerv",
+      "kentbye"
+    ]
+  },
+  "notes": {
+    "kentbye": "0 posts in 7d and 14d windows via get_users_posts exclude replies/retweets",
+    "BigscreenVR": "extended to 14d; only Halo correction reply + YouTube teaser in window"
+  }
+}

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>X · XR 媒体和 KOL</title>
+    <link>https://github.com/poovabgh/xrhot-feeds</link>
+    <description>ARealityEvent / nathie / Dilmerv / kentbye 的帖子</description>
+    <lastBuildDate>Fri, 09 Oct 2026 11:00:20 GMT</lastBuildDate>
+    <item>
+      <title>Schneider Electric to acquire PTC for $22.6B, ENGO launches 28.9-gram AR glasses.</title>
+      <link>https://x.com/ARealityEvent/status/2108466702468219337</link>
+      <guid isPermaLink="false">2108466702468219337</guid>
+      <pubDate>Fri, 09 Oct 2026 07:56:49 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[Schneider Electric to acquire PTC for $22.6B, ENGO launches 28.9-gram AR glasses.
+
+Weekly Spatial is your curated look at the week's biggest XR and Spatial AI news. Get the full story.
+
+Subscribe: ➡️ https://www.awexr.com/global/subscribe-to-weekly-spatial
+
+#AWE2027 #XR https://x.com/ARealityEvent/status/2108466702468219337/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>AR glasses are slowly going mainstream and I just got a glimpse of what that future could look like.</title>
+      <link>https://x.com/nathie/status/2108302849570726291</link>
+      <guid isPermaLink="false">2108302849570726291</guid>
+      <pubDate>Thu, 08 Oct 2026 21:05:44 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[AR glasses are slowly going mainstream and I just got a glimpse of what that future could look like.
+
+Watch it here: https://youtu.be/UgTZg11T1KU https://x.com/nathie/status/2108302849570726291/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>what’s an opinion on VR that will have you like this? https://x.com/nathie/status/2108272789354668297/photo/1</title>
+      <link>https://x.com/nathie/status/2108272789354668297</link>
+      <guid isPermaLink="false">2108272789354668297</guid>
+      <pubDate>Thu, 08 Oct 2026 19:06:17 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[what’s an opinion on VR that will have you like this? https://x.com/nathie/status/2108272789354668297/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Once again, I’m exercising, and this is exactly when ideas spark! I’m going to add IK (inverse kinematics) to my Hand Gr</title>
+      <link>https://x.com/Dilmerv/status/2108196275254628736</link>
+      <guid isPermaLink="false">2108196275254628736</guid>
+      <pubDate>Thu, 08 Oct 2026 14:02:15 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Once again, I’m exercising, and this is exactly when ideas spark! I’m going to add IK (inverse kinematics) to my Hand Grab Baker tool. It’ll help a lot when devs need to adjust the generated poses.]]></content:encoded>
+    </item>
+    <item>
+      <title>Be among the first in Europe to experience SPECS. Snap’s new augmented reality glasses will be on site at UnitedXR, givi</title>
+      <link>https://x.com/ARealityEvent/status/2108165512022929881</link>
+      <guid isPermaLink="false">2108165512022929881</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[Be among the first in Europe to experience SPECS. Snap’s new augmented reality glasses will be on site at UnitedXR, giving attendees the opportunity to try them firsthand.
+
+📍 Brussels | 7–9 December 2026
+See the agenda and register: https://unitedxr.eu/
+
+#SPECS #UnitedXR https://x.com/ARealityEvent/status/2108165512022929881/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Made so much progress with my Hand Grab Baker tool, this is incredible and it is SO FAST! It uses Unity Burst compiler f</title>
+      <link>https://x.com/Dilmerv/status/2108073753041424568</link>
+      <guid isPermaLink="false">2108073753041424568</guid>
+      <pubDate>Thu, 08 Oct 2026 05:55:23 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Made so much progress with my Hand Grab Baker tool, this is incredible and it is SO FAST! It uses Unity Burst compiler for certain sections of the code. It went from 2-3 mins to bake hand grab poses to 5-7 seconds! 🤯]]></content:encoded>
+    </item>
+    <item>
+      <title>Passthrough experiences like this (MR) are going to be extremely useful going forward. Glad to see this running on Quest</title>
+      <link>https://x.com/Dilmerv/status/2108002889402872025</link>
+      <guid isPermaLink="false">2108002889402872025</guid>
+      <pubDate>Thu, 08 Oct 2026 01:13:48 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Passthrough experiences like this (MR) are going to be extremely useful going forward. Glad to see this running on Quest 3! https://x.com/carterdev/status/2107250949375004674
+
+引用 @carterdev：started building an AR interface for the @DobotRobotics Rover X1 in @godotengine, running on a Quest 3
+
+still very early but this is already way too fun]]></content:encoded>
+    </item>
+    <item>
+      <title>Marvel’s Spider-Man now has a VR mod that lets you web-swing through the streets of New York using motion controllers. h</title>
+      <link>https://x.com/nathie/status/2107992789745295830</link>
+      <guid isPermaLink="false">2107992789745295830</guid>
+      <pubDate>Thu, 08 Oct 2026 00:33:40 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Marvel’s Spider-Man now has a VR mod that lets you web-swing through the streets of New York using motion controllers. https://x.com/nathie/status/2107992789745295830/video/1
+
+Learn more here: https://www.reddit.com/r/OculusQuest/comments/1wzy674/i_made_spidyvr_a_free_mod_that_puts_marvels/]]></content:encoded>
+    </item>
+    <item>
+      <title>Well, I’m testing CoreCLR right now with Unity 7 Alpha!</title>
+      <link>https://x.com/Dilmerv/status/2107982732416663704</link>
+      <guid isPermaLink="false">2107982732416663704</guid>
+      <pubDate>Wed, 07 Oct 2026 23:53:42 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Well, I’m testing CoreCLR right now with Unity 7 Alpha!
+
+Below are the steps to enable it, but looks like it is set by default in Unity 7 Alpha.
+
+Edit → Project Settings → Player → Other Settings → Configuration → Scripting Backend → CoreCLR.
+
+📌 Here're a few great things about it:
+
+- Modern JIT compiler to optimize C# execution.
+- Generational garbage collection for managing memory.
+- Better debugging with standard .NET tools.
+- .NET 10 and C# 14 support planned for future updates.
+
+📊 Few community benchmarks with Unity 6.7’s experimental desktop player (from Unity forums):
+
+- C# CPU path tracing, single thread: 17.1× speedup vs Mono and 2.49× vs IL2CPP.
+- C# CPU path tracing, multiple threads: 17.85× speedup vs Mono and 2.81× vs IL2CPP.
+- Boat Attack: ~10% lower average frame time vs Mono in a quick single-run test.
+- Happy Harvest: ~15% lower average frame time vs Mono in a quick single-run test.
+
+In summary: It’s supposed to be very, very fast when you hit Play in Unity. I’m testing that right now with the Meta XR SDKs!]]></content:encoded>
+    </item>
+    <item>
+      <title>XREAL AURA pricing is officially here.</title>
+      <link>https://x.com/nathie/status/2107919408492667287</link>
+      <guid isPermaLink="false">2107919408492667287</guid>
+      <pubDate>Wed, 07 Oct 2026 19:42:04 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[XREAL AURA pricing is officially here.
+
+• 12GB RAM + 256GB — $1,279
+• 16GB RAM + 512GB — $1,499
+
+Launching in the US, Canada, Japan and Korea.
+
+What do we think of the price? https://x.com/NathieVR/status/2067064734919360521/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Okay, let’s do this! Unity 7 Alpha! 🚀</title>
+      <link>https://x.com/Dilmerv/status/2107911310721876045</link>
+      <guid isPermaLink="false">2107911310721876045</guid>
+      <pubDate>Wed, 07 Oct 2026 19:09:54 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Okay, let’s do this! Unity 7 Alpha! 🚀
+
+Let’s see what you have to offer! Excited to check out the new XR features! https://x.com/Dilmerv/status/2107911310721876045/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I just got to visit the first ever AR glasses pop-up experience where regular shoppers had the chance to try the future</title>
+      <link>https://x.com/nathie/status/2107897087975419926</link>
+      <guid isPermaLink="false">2107897087975419926</guid>
+      <pubDate>Wed, 07 Oct 2026 18:13:23 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[I just got to visit the first ever AR glasses pop-up experience where regular shoppers had the chance to try the future of augmented reality with SPECS.
+
+Pop-ups like this might be the future of how we introduce people to wearable tech letting them discover it in a familiar place.
+
+Watch the full video here: https://www.youtube.com/watch?v=UgTZg11T1KU]]></content:encoded>
+    </item>
+    <item>
+      <title>Goal for this week is to launch a new video or at least schedule it on Meta For Developers YouTube channel and work on a</title>
+      <link>https://x.com/Dilmerv/status/2107886081081561356</link>
+      <guid isPermaLink="false">2107886081081561356</guid>
+      <pubDate>Wed, 07 Oct 2026 17:29:39 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Goal for this week is to launch a new video or at least schedule it on Meta For Developers YouTube channel and work on a new video for my own channel. There is so much to talk about, and I am extremely excited!]]></content:encoded>
+    </item>
+    <item>
+      <title>OK, now you've got me very, very interested! This is so cool!</title>
+      <link>https://x.com/Dilmerv/status/2107868207084450166</link>
+      <guid isPermaLink="false">2107868207084450166</guid>
+      <pubDate>Wed, 07 Oct 2026 16:18:37 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[OK, now you've got me very, very interested! This is so cool!
+
+Now add a few obstacles & collectables to the real-world ;) https://x.com/TheGabmeisterX/status/2107847472420913509
+
+引用 @TheGabmeisterX：What if video game characters can jump in/out of screens and interact with the real world?
+
+I tried it by tracking my monitors and attaching a portal shader to each of them.
+
+3D models from asset store and Kenney.
+#AugmentedReality #MixedReality #MetaQuest #gamedev #Unity3D]]></content:encoded>
+    </item>
+    <item>
+      <title>About a year and a half ago, I built a few demos with microgestures, and they’re extremely relevant now with Meta VR Gla</title>
+      <link>https://x.com/Dilmerv/status/2107861677874258193</link>
+      <guid isPermaLink="false">2107861677874258193</guid>
+      <pubDate>Wed, 07 Oct 2026 15:52:40 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[About a year and a half ago, I built a few demos with microgestures, and they’re extremely relevant now with Meta VR Glasses! These are small, low-effort thumb movements that let you trigger actions, navigate content, and even move through VR without controllers or large hand movements. 🙌
+
+- Thumb tap and double tap for contextual actions and shortcuts
+- Swipe left, right, up, or down for directional input
+- Navigate UI and content almost like using a tiny D-pad with your thumb
+- Combine microgestures with gaze for low-effort targeting and interactions
+- Use them for locomotion, paging, media controls, teleportation, and other contextual actions
+
+These are a few prototypes I built to test these features. Additionally, the gaze features that will be available in the future will further enhance this functionality. https://x.com/Dilmerv/status/2107861768072729059/photo/1]]></content:encoded>
+    </item>
+    <item>
+      <title>I’m finally caught up on all the Meta Connect work! It was a lot of fun building prototypes and preparing talks. Now I’m</title>
+      <link>https://x.com/Dilmerv/status/2107837250914689396</link>
+      <guid isPermaLink="false">2107837250914689396</guid>
+      <pubDate>Wed, 07 Oct 2026 14:15:36 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I’m finally caught up on all the Meta Connect work! It was a lot of fun building prototypes and preparing talks. Now I’m moving on to the second episode of VR Developer Level Up, which will cover a lot of what we announced and the practical side of using the new VR tools for VR Glasses and Quest.]]></content:encoded>
+    </item>
+    <item>
+      <title>Some of the hardware is already here but VR has always been about content being king. With people from all walks of life</title>
+      <link>https://x.com/nathie/status/2107683591241318888</link>
+      <guid isPermaLink="false">2107683591241318888</guid>
+      <pubDate>Wed, 07 Oct 2026 04:05:01 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Some of the hardware is already here but VR has always been about content being king. With people from all walks of life finally able to create their own mods and experiences with AI, I have a feeling we may have found the missing puzzle piece.]]></content:encoded>
+    </item>
+    <item>
+      <title>These are the types of small experiments I love seeing from the community: futuristic, great hand interactions, minimali</title>
+      <link>https://x.com/Dilmerv/status/2107620416202367408</link>
+      <guid isPermaLink="false">2107620416202367408</guid>
+      <pubDate>Tue, 06 Oct 2026 23:53:59 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[These are the types of small experiments I love seeing from the community: futuristic, great hand interactions, minimalist with super cool shaders! 👇 https://x.com/TheGabmeisterX/status/2107135820604014653
+
+引用 @TheGabmeisterX：What if the map in a game lived in your hand instead of in a menu?🤔
+I'm building an AR minimap using Meta Quest 3, with help from Claude Opus 5.5. The city is a placeholder for now. Next step: real map data.
+
+#AugmentedReality #ar #vr #gamedev #Unity3D]]></content:encoded>
+    </item>
+    <item>
+      <title>All, Unity 7 alpha is now available! 🚀</title>
+      <link>https://x.com/Dilmerv/status/2107592317146472870</link>
+      <guid isPermaLink="false">2107592317146472870</guid>
+      <pubDate>Tue, 06 Oct 2026 22:02:20 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[All, Unity 7 alpha is now available! 🚀
+
+This release brings a CoreCLR-powered Editor, a new script-reloading workflow, and several XR rendering improvements. It’s an early step toward Unity’s modern .NET foundation, with C# 14 and .NET 10 support in the Editor planned for later.
+
+- CoreCLR replaces Mono in the Editor, laying the foundation for modern .NET support.
+
+- A new code-reloading system uses AssemblyLoadContext, with bigger iteration-speed improvements planned for future releases.
+
+- Temporal Pixel Synthesis support has been added for XR rendering.
+
+- XR Quad Views optimizations reduce CPU and GPU work by reusing rendering data and reducing redundant geometry rendering.
+
+- IL2CPP improvements eliminate unnecessary boxing and memory allocations in several common value-type operations.
+
+📌 For more details about this version check out the Unity discussion https://discussions.unity.com/t/unity-7-0-alpha-is-now-available/1738310]]></content:encoded>
+    </item>
+    <item>
+      <title>This Apple Vision Pro app makes ghosts appear in your house. It is called Hauntify and scans your rooms in real-time to</title>
+      <link>https://x.com/nathie/status/2107565944587624469</link>
+      <guid isPermaLink="false">2107565944587624469</guid>
+      <pubDate>Tue, 06 Oct 2026 20:17:32 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[This Apple Vision Pro app makes ghosts appear in your house. It is called Hauntify and scans your rooms in real-time to find the perfect spots to scare you. https://x.com/nathie/status/2107565944587624469/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>One of my favorite features on Quest &amp; 🕶️ Meta VR Glasses is passthrough, which opens up so many possibilities for Mixed</title>
+      <link>https://x.com/Dilmerv/status/2107546954586808387</link>
+      <guid isPermaLink="false">2107546954586808387</guid>
+      <pubDate>Tue, 06 Oct 2026 19:02:04 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[One of my favorite features on Quest & 🕶️ Meta VR Glasses is passthrough, which opens up so many possibilities for Mixed Reality experiences!
+
+To me, this is an incredibly interesting area to explore. Instead of building an experience that simply floats in the user’s space, think about how you can turn their physical world into a canvas or playground. How can your game or app understand, utilize, and transform the area around them?
+
+📌 Here're a few areas to explore...
+
+- Use passthrough as a 360-degree background
+- Place virtual content on physical walls, floors, and tables
+- Create windows and portals between physical and virtual worlds
+- Use lighting, dimming, and color to guide the user’s attention
+- Blend smoothly between Mixed Reality and fully immersive VR
+- Combine passthrough with scene understanding to make virtual objects interact with the real environment
+
+Combine passthrough with scene understanding to make virtual objects interact naturally with physical surfaces. Characters can walk across your walls, floors, and tables, turning the entire room into a canvas for your experience. https://x.com/Dilmerv/status/2107546956998574419/video/1
+
+If your app frequently switches between passthrough and fully immersive VR, provide an easily accessible toggle in the main or pause menu. Use smooth blending between the two modes, since sudden transitions can feel overwhelming or uncomfortable. https://x.com/Dilmerv/status/2107546958915326353/photo/1
+
+To learn more about Mixed Reality and passthrough best practices, check out this guide. It goes into much more detail about how these features work and how to use them effectively 👇
+https://developers.meta.com/vr/design/mr-design-passthrough/]]></content:encoded>
+    </item>
+    <item>
+      <title>This is awesome! It’s almost indistinguishable from reality. Now I want to experiment with Gaussian splats, great work!</title>
+      <link>https://x.com/Dilmerv/status/2107340577448804488</link>
+      <guid isPermaLink="false">2107340577448804488</guid>
+      <pubDate>Tue, 06 Oct 2026 05:22:00 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[This is awesome! It’s almost indistinguishable from reality. Now I want to experiment with Gaussian splats, great work! 👇 https://x.com/smallfly/status/2107275439936881029
+
+引用 @smallfly：This time the tracking runs with a 120 fps global-shutter camera.
+
+Getting twice as many position updates, with much fewer gaps when tracking faster movements… It feels much better.
+
+The window is still rendering from a position roughly 20–24 ms in the past, but I compensate for some of that by predicting the position slightly forward.
+
+It still works best when tracking the phone, though.
+
+#3DGS #GaussianSplatting #ComputerVision]]></content:encoded>
+    </item>
+    <item>
+      <title>Here’s a question I’ve been getting a lot recently: How do you move around in VR without controllers? 🙌</title>
+      <link>https://x.com/Dilmerv/status/2107285810538291637</link>
+      <guid isPermaLink="false">2107285810538291637</guid>
+      <pubDate>Tue, 06 Oct 2026 01:44:23 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s a question I’ve been getting a lot recently: How do you move around in VR without controllers? 🙌
+
+𝗧𝗵𝗮𝘁’𝘀 𝘄𝗵𝗲𝗿𝗲 𝗹𝗼𝗰𝗼𝗺𝗼𝘁𝗶𝗼𝗻 𝗰𝗼𝗺𝗲𝘀 𝗶𝗻. It’s simply how we move through a virtual world, even when our physical space is limited.
+
+For hands-first experiences on Meta VR Glasses, we can combine hand movements with microgestures to move, turn, crouch, and more!
+
+A single thumb tap while your hand is idle, rather than aiming at UI, activates the locomotion method selected in your app’s preferences.
+
+Let’s look at Walkingsticks, Telepath, and the familiar Teleport 👇
+
+Walkingsticks 🚶
+
+This one is pretty cool: swing your hands/arms to walk through the virtual world!
+
+Here’s how the controls work:
+
+- Walk: Swing your hands/arms.
+- Snap turn: Swipe your right thumb left/right.
+- Step: Swipe your left thumb left/right/up/down.
+- Crouch: Swipe your right thumb down.
+- Jump: Move both hands down as if pushing off the ground.
+
+Your arm movements become part of how you navigate!
+
+Telepath 👀
+
+Pick where you want to go, then walk there virtually. Move your arm to aim at a destination and tap to start moving!
+
+- Walk to a destination: Aim with your arm and tap.
+- Snap turn: Swipe your right thumb left/right.
+- Step: Swipe your left thumb left/right/up/down.
+- Crouch: Swipe your right thumb down.
+- Jump: Swipe your right thumb up.
+
+The key difference from teleporting is that you travel through the space to reach your destination.
+
+Teleport 🙌
+
+This is probably the one most of you already know! Aim at where you want to go, then tap to teleport there.
+
+- Teleport: Aim with your arm and tap.
+- Snap turn: Swipe your right thumb left/right.
+- Step: Swipe your left thumb left/right/up/down.
+- Crouch: Swipe your right thumb down.
+
+One thing for devs to keep in mind: current microgestures recognize discrete inputs, not a continuous thumbstick-style input.
+
+Which of these would you use in your hands-first game or app? 👇]]></content:encoded>
+    </item>
+    <item>
+      <title>Here’s an example of how I use the XR Simulator to test ISDK Hand Grab Poses! It works very well, and I can now connect</title>
+      <link>https://x.com/Dilmerv/status/2107273817425121491</link>
+      <guid isPermaLink="false">2107273817425121491</guid>
+      <pubDate>Tue, 06 Oct 2026 00:56:43 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s an example of how I use the XR Simulator to test ISDK Hand Grab Poses! It works very well, and I can now connect Meta XR Operator to my agent and have it iterate through a lot of different models to evaluate the accuracy of the grab poses, or at least assign them a quality score. I use WASD to move around and the mouse to pan or rotate.
+
+The hand grab poses shown here were generated by the new tool I have been building, so no more manual creation of poses. However, the system allows you to tweak joints if needed. But having these poses authored by a tool can save a lot of time.]]></content:encoded>
+    </item>
+    <item>
+      <title>Here are a few new features added to my Hand Pose Baker prototype for ISDK! It helps bake a variety of hand grab poses b</title>
+      <link>https://x.com/Dilmerv/status/2107259897595515215</link>
+      <guid isPermaLink="false">2107259897595515215</guid>
+      <pubDate>Tue, 06 Oct 2026 00:01:25 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here are a few new features added to my Hand Pose Baker prototype for ISDK! It helps bake a variety of hand grab poses based on different settings & meshes. I also improved the Editor window’s look and feel and added gizmos to visualize the baking progress.
+
+For now, it works with simple shapes. Next, I’m going to leave it running through thousands of meshes using the >𝙢𝙚𝙩𝙖𝙫𝙧 𝙖𝙨𝙨𝙚𝙩𝙨 cli command, with the agent testing and iterating until we reach a specific quality bar. Excited to see how far I can take this! 🙌]]></content:encoded>
+    </item>
+    <item>
+      <title>Pure magic! Half Life: Alyx running fully standalone on Apple Vision Pro. https://x.com/udiWertheimer/status/21069469656</title>
+      <link>https://x.com/nathie/status/2107022903753711995</link>
+      <guid isPermaLink="false">2107022903753711995</guid>
+      <pubDate>Mon, 05 Oct 2026 08:19:41 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Pure magic! Half Life: Alyx running fully standalone on Apple Vision Pro. https://x.com/udiWertheimer/status/2106946965657223353/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Here’s the first version of my Hand Pose Baker tool for Interaction SDK! It’s still very rough since I only started work</title>
+      <link>https://x.com/Dilmerv/status/2106919924476346618</link>
+      <guid isPermaLink="false">2106919924476346618</guid>
+      <pubDate>Mon, 05 Oct 2026 01:30:29 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Here’s the first version of my Hand Pose Baker tool for Interaction SDK! It’s still very rough since I only started working on it yesterday, but the idea is to generate and bake hand poses for both simple and complex meshes on the fly.
+
+Very excited to keep polishing this and help devs building hands-first games and apps for Meta VR Glasses! 🙌
+
+Curious about your thoughts? Any other feature you would like to see?
+
+I have a variety of improvements to make, specifically the positioning of the thumb, working on it tonight and should have a better version to share tomorrow.]]></content:encoded>
+    </item>
+    <item>
+      <title>This is wild! Astro Bot is now fully playable on Meta Quest 3 https://x.com/nathie/status/2106838591574073700/video/1</title>
+      <link>https://x.com/nathie/status/2106838591574073700</link>
+      <guid isPermaLink="false">2106838591574073700</guid>
+      <pubDate>Sun, 04 Oct 2026 20:07:18 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[This is wild! Astro Bot is now fully playable on Meta Quest 3 https://x.com/nathie/status/2106838591574073700/video/1
+
+Learn more here: https://www.reddit.com/r/OculusQuest/comments/1wwzrxz/play_astro_bot_rescue_mission_on_meta_quest/]]></content:encoded>
+    </item>
+    <item>
+      <title>I have been working on a new prototype to extend functionality in one of our SDKs. It will help dramatically with Meta V</title>
+      <link>https://x.com/Dilmerv/status/2106783406508118110</link>
+      <guid isPermaLink="false">2106783406508118110</guid>
+      <pubDate>Sun, 04 Oct 2026 16:28:00 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I have been working on a new prototype to extend functionality in one of our SDKs. It will help dramatically with Meta VR Glasses development, but it is also a complex problem to solve. I am hoping to keep working on it today. I spent all day yesterday tweaking the tool.]]></content:encoded>
+    </item>
+    <item>
+      <title>I took these photos during Connect, and thinking about the intersection of these technologies is extremely exciting. Fro</title>
+      <link>https://x.com/Dilmerv/status/2106452268962959669</link>
+      <guid isPermaLink="false">2106452268962959669</guid>
+      <pubDate>Sat, 03 Oct 2026 18:32:11 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[I took these photos during Connect, and thinking about the intersection of these technologies is extremely exciting. From VR, where I started, to wearables and now AI with Muse, there’s so much to explore.
+
+If you asked me where to focus today, I’d 100% recommend learning agentic workflows inside and out. Grab a Quest 3/3S, start building, and keep Meta VR Glasses on your radar!
+
+But never forget your core skills. Keep coding, designing, and applying your own taste. Don’t let the noise around bad AI practices keep you from exploring these tools and developing skills that I believe will be incredibly valuable going forward.]]></content:encoded>
+    </item>
+    <item>
+      <title>Insane! We now have 2,001 devs registered for our Meta VR Start Developer Competition! 🤯 For context, last year we finis</title>
+      <link>https://x.com/Dilmerv/status/2106431908955730252</link>
+      <guid isPermaLink="false">2106431908955730252</guid>
+      <pubDate>Sat, 03 Oct 2026 17:11:17 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[Insane! We now have 2,001 devs registered for our Meta VR Start Developer Competition! 🤯 For context, last year we finished with 2,865. In just 10 days, we’ve already reached 69.8% of last year’s final total!
+
+The excitement around Meta VR Glasses is huge! Be sure to register. This is a big opportunity, and I can’t wait to see what you build!
+
+Registration Link 👇
+
+📌 Devpost registration https://start-developer-competition-26.devpost.com/]]></content:encoded>
+    </item>
+    <item>
+      <title>Pod racing in VR is an incredible experience and exactly what it was made for! https://x.com/JShodanVR/status/2105992108</title>
+      <link>https://x.com/nathie/status/2106111970902687900</link>
+      <guid isPermaLink="false">2106111970902687900</guid>
+      <pubDate>Fri, 02 Oct 2026 19:59:58 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Pod racing in VR is an incredible experience and exactly what it was made for! https://x.com/JShodanVR/status/2105992108108648585/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>Looks like the launch date and price of the Pico Space Pro may have leaked! It’s reportedly coming out in the first week</title>
+      <link>https://x.com/nathie/status/2105947835707621680</link>
+      <guid isPermaLink="false">2105947835707621680</guid>
+      <pubDate>Fri, 02 Oct 2026 09:07:45 GMT</pubDate>
+      <dc:creator>nathie</dc:creator>
+      <content:encoded><![CDATA[Looks like the launch date and price of the Pico Space Pro may have leaked! It’s reportedly coming out in the first week of October for $2,899. https://x.com/nathie/status/2105947835707621680/photo/1
+
+Source: https://www.knoxlabs.com/products/pico-space-pro]]></content:encoded>
+    </item>
+    <item>
+      <title>Meta launches $1M dev competition for hand-tracked "VR Glasses" apps and Arcturus Vision unveils $150 color passthrough</title>
+      <link>https://x.com/ARealityEvent/status/2105928828128555507</link>
+      <guid isPermaLink="false">2105928828128555507</guid>
+      <pubDate>Fri, 02 Oct 2026 07:52:13 GMT</pubDate>
+      <dc:creator>ARealityEvent</dc:creator>
+      <content:encoded><![CDATA[Meta launches $1M dev competition for hand-tracked "VR Glasses" apps and Arcturus Vision unveils $150 color passthrough camera for Steam Frame.
+
+Weekly Spatial delivers the essential stories every Friday morning.
+➡️Subscribe now: https://www.awexr.com/global/subscribe-to-weekly-spatial
+
+#AWE2027 #XR #SpatialAI https://x.com/ARealityEvent/status/2105928828128555507/video/1]]></content:encoded>
+    </item>
+    <item>
+      <title>We showed this trailer during the Unity livestream today, and I can’t stop thinking about how far we’ve come in XR. From</title>
+      <link>https://x.com/Dilmerv/status/2105866870423515429</link>
+      <guid isPermaLink="false">2105866870423515429</guid>
+      <pubDate>Fri, 02 Oct 2026 03:46:01 GMT</pubDate>
+      <dc:creator>Dilmerv</dc:creator>
+      <content:encoded><![CDATA[We showed this trailer during the Unity livestream today, and I can’t stop thinking about how far we’ve come in XR. From heavy, bulky devices strapped to our heads to this, weighing no more than 100 grams 🤯 I’m incredibly excited for next year and to see what devs build for the Meta VR Competition!]]></content:encoded>
+    </item>
+  </channel>
+</rss>
